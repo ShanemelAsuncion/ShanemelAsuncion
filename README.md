@@ -29,5 +29,4 @@ Currently diving deeper into the fascinating realm of Artificial Intelligence an
 
 ### Activity
 ![GitHub Contribution Snake](https://raw.githubusercontent.com/ShanemelAsuncion/ShanemelAsuncion/refs/heads/output/github-contribution-grid-snake.svg)
-![Github Stats]()
 

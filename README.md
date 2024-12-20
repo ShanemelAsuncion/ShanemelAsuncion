@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 - 🔭Actions
 
-![GitHub Contribution Snake](https://raw.githubusercontent.com/<your-username>/<your-repo>/output/dist/github-contribution-grid-snake.svg)
+![GitHub Contribution Snake](https://raw.githubusercontent.com/ShanemelAsuncion/ShanemelAsuncion/output/dist/github-contribution-grid-snake.svg)
 

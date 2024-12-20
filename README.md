@@ -1,5 +1,5 @@
 <div align="center">
-  ## Hi there 👋
+## Hi there 👋
 </div>
 
 **ShanemelAsuncion/ShanemelAsuncion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 - 🔭Actions
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ShanemelAsuncion/ShanemelAsuncion/refs/heads/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ShanemelAsuncion/ShanemelAsuncion/refs/heads/output/github-contribution-grid-snake.svg">
-</picture>
+
+![GitHub Contribution Snake](https://raw.githubusercontent.com/<your-username>/<your-repo>/output/dist/github-contribution-grid-snake.svg)
 

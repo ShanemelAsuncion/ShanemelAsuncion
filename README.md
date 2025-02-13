@@ -26,6 +26,11 @@ Currently diving deeper into the fascinating realm of Artificial Intelligence an
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?logo=android-studio&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?logo=google-cloud&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-FFD700?logo=langchain&logoColor=black)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-43B02A?logo=pinecone&logoColor=white)
+
 
 ### Activity
 ![GitHub Contribution Snake](https://raw.githubusercontent.com/ShanemelAsuncion/ShanemelAsuncion/refs/heads/output/github-contribution-grid-snake.svg)

@@ -10,7 +10,7 @@ Currently diving deeper into the fascinating realm of Artificial Intelligence an
 [![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/Defcon27/)](https://github.com/ShanemelAsuncion/) 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shanemel/)](https://www.linkedin.com/in/shanemel)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/seyn.3/)](https://www.instagram.com/seyn.3/)
-
+[![Website Badge](https://img.shields.io/badge/-Website-4285F4?style=flat-square&logo=webcomponents.org&logoColor=white)](https://shanemelasuncion.github.io/Portfolio_v2/)
 
 ### Tech Stack
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)

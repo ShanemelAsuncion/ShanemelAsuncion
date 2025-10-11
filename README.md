@@ -1,7 +1,7 @@
 <h1 align='center'>👋 Hello! I am Shanemel <img height="30px" src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430"></h1>
 
 ### Who am I?
-I am a recent graduate of University of Alberta, majoring in Computing Science. I'm a passionate Tech Enthusiast 💻📸 with an insatiable curiosity for innovation and creativity. I thrive on exploring cutting-edge technologies and turning ideas into meaningful, impactful products that make a difference. With a keen eye for photography, I find beauty in the details, both in the digital and natural world.
+I am a graduate of University of Alberta, majoring in Computing Science. I'm a passionate Tech Enthusiast 💻📸 with an insatiable curiosity for innovation and creativity. I thrive on exploring cutting-edge technologies and turning ideas into meaningful, impactful products that make a difference. With a keen eye for photography, I find beauty in the details, both in the digital and natural world.
 
 Currently diving deeper into the fascinating realm of Artificial Intelligence and Software Development, I'm eager to uncover its potential and shape the future of technology. Whether it’s capturing moments through a lens or crafting solutions with code, I’m driven by the excitement of discovery and creation 🚀✨.
 
@@ -30,6 +30,8 @@ Currently diving deeper into the fascinating realm of Artificial Intelligence an
 ![LangChain](https://img.shields.io/badge/LangChain-FFD700?logo=langchain&logoColor=black)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white)
 ![Pinecone](https://img.shields.io/badge/Pinecone-43B02A?logo=pinecone&logoColor=white)
+![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?logo=ruby-on-rails&logoColor=white)
+
 
 
 ### Activity
